@@ -1,4 +1,4 @@
-package masterung.th.in.androidthai.mytutorial;
+package rathakarn.th.co.gkrgroup.masterkoong;
 
 import org.junit.Test;
 
