@@ -40,7 +40,7 @@ public class CatetoryFragment extends Fragment implements View.OnClickListener {
         imageView4.setOnClickListener(this);
 
 //        Phone Controller
-        phoneController();
+        //phoneController();
 
     }   // Main Method
 
